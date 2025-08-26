@@ -390,6 +390,8 @@ function login(username, password) {
 
 #### 📝 提交信息规范
 
+- **提交信息使用中文**
+
 **提交信息格式**:
 ```
 <type>(<scope>): <subject>
